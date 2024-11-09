@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Canvas from './components/Canvas';
 
-
 function App() {
   const [imageSrc, setImageSrc] = useState(null);
 
